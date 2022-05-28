@@ -1,3 +1,3 @@
-Name: Maksym
-Album Number: 19569
-Group: C4
+Name: Maksym \n
+Album Number: 19569 \n
+Group: C4 \n
