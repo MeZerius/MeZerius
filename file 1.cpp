@@ -7,7 +7,7 @@ using namespace std;
 void goodbye_memmory() {
 	for (;;)
 	{
-		long long* k = new long long;
+		long* k = new long;
 	}
 }
 
