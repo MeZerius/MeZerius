@@ -19,7 +19,7 @@ int main() {
 
 	while (true)
 	{
-		cout << "Your memmory is going to be mine(NOT YOUR)" <<endl;
+		cout << "Your memmory is going to be mine(NOT YOUR) and only mine" <<endl;
 	}
 
 	return 0;
